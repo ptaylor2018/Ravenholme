@@ -50,6 +50,9 @@ Please only claim one for your team at a time, but absolutely post a sign above 
 
 ## Twilight Forest
 The twilight forest has been split up into pie slices, like antartica. Stick to the slice that has been labeled for your team. Also, vein claiming applies in the twilight forest as well. (No, you cannot claim both as vein in the overworld and the twilight forest at the same time of the same material.)
+<p align="center">
+  <img src="/twilight-forest-map.png" height="400"/>
+</p>
 
 ## The End
 ### Rules
