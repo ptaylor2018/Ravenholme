@@ -20,7 +20,7 @@ The server more or less runs on an honor system. If you think a rule has been bo
 ## Mining
 ### Definitions
 #### Vein
-A vein is a collection of resources that are spawned in using geolysis. An example would be a vein of hematite, with a sample on the surafce and ore spawning underneath the samples. This is not a resource such as dark quartz ore, which spawns in a manner similar to vanilla, or clay, which spawn in changed due to quark.
+A vein is a collection of resources that are spawned in using geolysis. An example would be a vein of hematite, with a sample on the surface and ore spawning underneath the samples. This is not a resource such as dark quartz ore, which spawns in a manner similar to vanilla, or clay, which spawn in changed due to quark.
 
 #### Claimed
 A vein is considered claimed if a player has dug down in the chunk, and there is material left in that vein. (A sign indicating that it is claimed, in lieu of being dug down in, is acceptable.)
