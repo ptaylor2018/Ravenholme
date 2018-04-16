@@ -13,7 +13,7 @@ Common Sense should be your guiding force. Only do unto others as you would want
 ### Rule Enforcement
 The server more or less runs on an honor system. If you think a rule has been borken, bring it up with a server admin.
 ### Config changes and tweaks
-- Please add [this](/chiselsandbits.cfg) config file (it's for chisels and bits) to your Curse/Minecraft/Instances/SevTech Ages/config/ directory.
+- Please add [this](https://raw.githubusercontent.com/ptaylor2018/Ravenholme/master/chiselsandbits.cfg) config file (it's for chisels and bits) to your Curse/Minecraft/Instances/SevTech Ages/config/ directory.
 - It is recommended to install the [Reauth](https://minecraft.curseforge.com/projects/reauth) mod on your client (it is client side only), as there can be issues with logging in that require you to restart your client (and that takes bloody forever). This mod make it so you don't have to do that.
 - The Immersive Engineer's manual can cause crashes with the native launcher. To avoid this, you can change over to the .jar minecraft launcher in the twitch settings.
 
