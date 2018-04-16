@@ -57,8 +57,8 @@ The twilight forest has been split up into pie slices, like antartica. Stick to 
 ## The End
 ### Rules
 1. As a kill of the ender dragon is needed for resources, each team is granted one 'free' kill of the ender dragon. Eventually, a command block will be implemented to automate this process, but for the time being, contact an admin to do so. If you need more kills after your first free one, the mods in the pack add ways to do so.
-2. Each kill of the ender dragon will generate a portal to areas of further end progression. Upon killing your ender dragon, put a sign on your portal to claim it as your own, and only use your own to get resources from those places.
-3. If necessary, the end may be reset for better distribution of resources. As such, do not do any major building in the end, as you may lose it all.
+2. Each kill of the ender dragon will generate a portal to areas of further End progression. Upon killing your ender dragon, put a sign on your portal to claim it as your own, and only use your own to get resources from those places.
+3. If necessary, The End may be reset for better distribution of resources. As such, do not do any major building in The End, as you may lose it all.
 
 ## Miscellaneous Rules
 1. Do not use the Aevitas ore walker ability. It is broken. Don't do it.
